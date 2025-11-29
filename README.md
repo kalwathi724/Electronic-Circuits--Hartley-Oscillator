@@ -4,42 +4,45 @@ To simulate a Hartley Oscillator and to obtain the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+<img width="1039" height="688" alt="image" src="https://github.com/user-attachments/assets/57da3765-e791-4b22-849c-680e800959b9" />
 
 ## SIMULATION PROCEDURE:
-1.	Open the Ltspice software
-2.	
-3.	FileNew Schematic
-4.	
-5.	Click component symbol  to browse and select the components
-6.	
-7.	Click OK and place the component
-8.	
-9.	Search for resistor from component menu or from the tab icons
-10.	
-11.	Place the resistors
-12.	
-15.	Use ctrl + R to rotate the components
-16.	
-17.	Use wire symbol  to connect the components as per the circuit diagram
-18.	
-19.	Right click each components to give the values
-20.	
-21.	Use run button  to run the simulation
-22.	
-23.	Set the step time and click ok
-24.	
-25.	Output dialog box will open
-26.	
-27.	In the output dialog box right click and select add traces
-28.	
-29.	Node voltages and current of each components names will be displayed.
-30.	
-31.	Select the required node voltages (V(n001)) to get the waveforms.
-32.	
-33.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
+Open the Ltspice software
 
-34.	## THEORITICAL CALCULATION:
-35.	
-37.	## OUTPUTS:
-38.	
-40.	## RESULT:
+FileNew Schematic
+
+Click component symbol to browse and select the components
+
+Click OK and place the component
+
+Search for resistor from component menu or from the tab icons
+
+Place the resistors
+
+Use ctrl + R to rotate the components
+
+Use wire symbol to connect the components as per the circuit diagram
+
+Right click each components to give the values
+
+Use run button to run the simulation
+
+Set the step time and click ok
+
+Output dialog box will open
+
+In the output dialog box right click and select add traces
+
+Node voltages and current of each components names will be displayed.
+
+Select the required node voltages (V(n001)) to get the waveforms.
+
+To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
+## THEORITICAL CALCULATION:
+	![WhatsApp Image 2025-11-29 at 12 51 33 PM](https://github.com/user-attachments/assets/6d5a3137-cda0-4c6c-a310-08b41667c178)
+
+## OUTPUTS:
+  <img width="1057" height="564" alt="image" src="https://github.com/user-attachments/assets/66cb82fe-ebd8-4efa-b567-3bfd78b38baa" />
+
+## RESULT:
+![WhatsApp Image 2025-11-29 at 12 52 52 PM](https://github.com/user-attachments/assets/9aa498c4-8920-460c-84f5-5178ce670dc4)
